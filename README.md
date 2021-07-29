@@ -68,7 +68,7 @@
 Se concluye que:
 
 - .
-- te.
+- Los circuitos magnéticos pueden tener secciones de diferentes materiales y para el análisis de estos mismos, se requiere una cantidad llamada intensidad de campo magnético.
 - ia.
 
 
