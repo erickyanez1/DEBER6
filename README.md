@@ -81,7 +81,7 @@ Se concluye que:
 
 - .
 - Los circuitos magnéticos usan estructuras magnéticas para guiar y formar los campos, proporcionando una trayectoria bien definida para el flujo, estos pueden tener secciones de diferentes materiales y para el análisis, se requiere una cantidad llamada intensidad de campo magnético.
-- ia.
+- En el proceso de carga del capacitor , el voltaje de este aumenta de manera exponenciaal a través del tiempo, tendiendo hacia un valor máximo, mientras que en el proceso de descarga el voltaje disminuye empezando en un valor máximo y tendiendo a cero conforme el tiempo transcurre.
 
 
 # **6. BIBLIOGRAFÍA**
