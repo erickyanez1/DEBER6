@@ -80,7 +80,7 @@
 Se concluye que:
 
 - .
-- te.
+- Los circuitos magnéticos usan estructuras magnéticas para guiar y formar los campos, proporcionando una trayectoria bien definida para el flujo, estos pueden tener secciones de diferentes materiales y para el análisis, se requiere una cantidad llamada intensidad de campo magnético.
 - ia.
 
 
