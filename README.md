@@ -41,6 +41,10 @@
 <div align="center">
 
 ![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/MapaCap12_P1.jpg)
+![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/MapaCap12_P2.jpg)
+![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/MapaCap12_P3.jpg)
+![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/MapaCap12_P4.jpg)
+![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/MapaCap12_P5.jpg)
   
 </div>
 
