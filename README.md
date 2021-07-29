@@ -63,9 +63,6 @@
 ![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/Ejercicio_cap11_35.png)
 ![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/Ejercicio_cap11_37.png)
 ![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/Ejercicio_cap11_39_41_43.png)
-![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/Ejercicio_cap12_1.png)
-![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/Ejercicio_cap12_3_5.png)
-
 
 </div>
 
