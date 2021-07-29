@@ -72,7 +72,7 @@
 - Capítulo 12
 <div align="center">
 
-
+![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/EjerciciosCap12_P1.jpg)
 
 </div>
 
