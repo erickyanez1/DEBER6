@@ -72,6 +72,8 @@
 - Capítulo 12
 <div align="center">
 
+![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/Ejercicio_cap12_1.png)
+![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/Ejercicio_cap12_3_5.png)
 ![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/EjerciciosCap12_P1.jpg)
 ![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/EjerciciosCap12_P2.jpg)
 ![](https://github.com/erickyanez1/DEBER6/blob/main/IMG/EjerciciosCap12_P3.jpg)
