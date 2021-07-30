@@ -16,7 +16,8 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - .
+  - Comprender los principios del magnetismo de manera adecuada mediante el repaso al libro de Análisis de Circuitos y su análisis para la resolución de los ejercicios.
+  - Comprender la importancia de los capacitores tanto en carga como descarga y la manera en la que interactúa como una fuente de voltaje durante un cierto periodo de tiempo.
  
  **OBJETIVOS ESPECÍFICOS**
   - .
