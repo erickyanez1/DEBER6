@@ -20,9 +20,8 @@
   - Comprender la importancia de los capacitores tanto en carga como descarga y la manera en la que interactúa como una fuente de voltaje durante un cierto periodo de tiempo.
  
  **OBJETIVOS ESPECÍFICOS**
-  - .
-  - .
-  - .
+  - Aplicar los conocimientos de La Ley de Ohm mediante los cálculos realizados para los capacitores en carga y descarga con el fin de percatarnos de que realiza cada uno en un tiempo determinado.
+  - Analizar los circuitos con capacitores de carga y descarga y sus curvas gráficas para ver la influencia que tienen estos en circuitos electrónicos y aplicaciones derivadas.
   
 # **2. MARCO TEÓRICO**
 
